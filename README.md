@@ -13,7 +13,7 @@ It integrates into your workflow and helps maintain clean and readable commit lo
 Clone the repository and install locally:
 
 ```bash
-git clone https://github.com/MrRealmWLS/fastcommit.git
+git clone https://github.com/RealmWLS/fastcommit.git
 cd fastcommit
 pip install .
 ```
